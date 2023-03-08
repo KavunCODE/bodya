@@ -7,7 +7,7 @@
     <title>Dołączanie plików</title>
 </head>
 <body>
-<h4>Początek strony</h4>
+<h4>Początek strony3272ashjsadkjads</h4>
 <?php include "./skrypt/lista.php" //include, include_once, require, require_once ?>
 <?php include_once "./skrypt/lista.php" ?>
 <?php require "./skrypt/lista.php";
